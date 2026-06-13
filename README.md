@@ -17,9 +17,10 @@
 -----
 
 ### 🧑‍💻 About me
-- 🔭 Building Java projects (Event Management, ADS coursework)
+- 🔭 Building projects
 - 🌱 Currently diving deeper into **algorithms & data structures**
-- 💬 Ask me about **Java and OOP**
+- 🤖 Exploring **AI & process automation**
+- 💬 Ask me about **AI & automation**
 - 📫 Reach me at: **shldenalnur@gmail.com**
 - 🏆 GitHub achievements: Pull Shark, YOLO, Pair Extraordinaire
 
