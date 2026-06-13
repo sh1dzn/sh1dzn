@@ -6,7 +6,7 @@
 <!-- Animated typing header -->
 <p align="center">
   <a href="https://github.com/sh1dzn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+OOP+enthusiast;Learning+Algorithms+%26+Data+Structures" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Automation+enthusiast;Learning+Algorithms+%26+Data+Structures" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -27,7 +27,6 @@
 -----
 
 ### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,6 +64,5 @@
 
 ### 🔗 Contact
 <p align="center">
-  <a href="https://t.me/{TELEGRAM_USERNAME}"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:shldenalnur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
